@@ -1,0 +1,68 @@
+{
+  "aboutCompany": [
+    {
+      "_id": "69cfc77aafacd6f72df7d68b",
+      "mediator_type": "Email",
+      "mediator_value": "reach@silvertossindustries.com",
+      "content": "",
+      "status": true,
+      "created_at": 1775224698007,
+      "updated_at": 1775224698007,
+      "__v": 0
+    },
+    {
+      "_id": "69cfc78bafacd6f72df7d690",
+      "mediator_type": "Phone",
+      "mediator_value": "033 4801 7916",
+      "content": "",
+      "status": true,
+      "created_at": 1775224715818,
+      "updated_at": 1775224715818,
+      "__v": 0
+    }
+  ],
+  "aboutCompanies": [
+    {
+      "_id": "69cfc77aafacd6f72df7d68b",
+      "mediator_type": "Email",
+      "mediator_value": "reach@silvertossindustries.com",
+      "content": "",
+      "status": true,
+      "created_at": 1775224698007,
+      "updated_at": 1775224698007,
+      "__v": 0
+    },
+    {
+      "_id": "69cfc78bafacd6f72df7d690",
+      "mediator_type": "Phone",
+      "mediator_value": "033 4801 7916",
+      "content": "",
+      "status": true,
+      "created_at": 1775224715818,
+      "updated_at": 1775224715818,
+      "__v": 0
+    }
+  ],
+  "items": [
+    {
+      "_id": "69cfc77aafacd6f72df7d68b",
+      "mediator_type": "Email",
+      "mediator_value": "reach@silvertossindustries.com",
+      "content": "",
+      "status": true,
+      "created_at": 1775224698007,
+      "updated_at": 1775224698007,
+      "__v": 0
+    },
+    {
+      "_id": "69cfc78bafacd6f72df7d690",
+      "mediator_type": "Phone",
+      "mediator_value": "033 4801 7916",
+      "content": "",
+      "status": true,
+      "created_at": 1775224715818,
+      "updated_at": 1775224715818,
+      "__v": 0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "categories": [
+    {
+      "_id": "69a2967bd23a6c332a34dbe7",
+      "name": "Fire Retardant Plywood",
+      "slug": "fire-retardant-plywood",
+      "status": true,
+      "created_at": 1772263035890,
+      "updated_at": 1772263035890,
+      "__v": 0
+    },
+    {
+      "_id": "69a29682d23a6c332a34dbeb",
+      "name": "Flexible Plywood",
+      "slug": "flexible-plywood",
+      "status": true,
+      "created_at": 1772263042338,
+      "updated_at": 1772263042338,
+      "__v": 0
+    },
+    {
+      "_id": "69a29687d23a6c332a34dbef",
+      "name": "Film Faced Plywood",
+      "slug": "film-faced-plywood",
+      "status": true,
+      "created_at": 1772263047649,
+      "updated_at": 1772263047649,
+      "__v": 0
+    },
+    {
+      "_id": "69a2968cd23a6c332a34dbf3",
+      "name": "Veneer Plywood",
+      "slug": "veneer-plywood",
+      "status": true,
+      "created_at": 1772263052111,
+      "updated_at": 1772263052111,
+      "__v": 0
+    },
+    {
+      "_id": "69a2968fd23a6c332a34dbf7",
+      "name": "Hardwood",
+      "slug": "hardwood-plywood",
+      "status": true,
+      "created_at": 1772263055885,
+      "updated_at": 1774530839149,
+      "__v": 0
+    },
+    {
+      "_id": "69a29694d23a6c332a34dbfb",
+      "name": "Softwood Plywood",
+      "slug": "softwood-plywood",
+      "status": true,
+      "created_at": 1772263060582,
+      "updated_at": 1773146695922,
+      "__v": 0
+    },
+    {
+      "_id": "69c53123413fcd7912e97166",
+      "name": "Lumber",
+      "slug": "lumber",
+      "status": true,
+      "created_at": 1774530851746,
+      "updated_at": 1774530851746,
+      "__v": 0
+    },
+    {
+      "_id": "69c5312f413fcd7912e9716a",
+      "name": "Engineered",
+      "slug": "engineered",
+      "status": true,
+      "created_at": 1774530863293,
+      "updated_at": 1774530863293,
+      "__v": 0
+    },
+    {
+      "_id": "69c5313c413fcd7912e9716e",
+      "name": "Custom",
+      "slug": "custom",
+      "status": true,
+      "created_at": 1774530876491,
+      "updated_at": 1774530876491,
+      "__v": 0
+    },
+    {
+      "_id": "69c53144413fcd7912e97172",
+      "name": "Sustainable",
+      "slug": "sustainable",
+      "status": true,
+      "created_at": 1774530884774,
+      "updated_at": 1774530884774,
+      "__v": 0
+    },
+    {
+      "_id": "69c5314c413fcd7912e97176",
+      "name": "Veneers",
+      "slug": "veneers",
+      "status": true,
+      "created_at": 1774530892036,
+      "updated_at": 1774530892036,
+      "__v": 0
+    },
+    {
+      "_id": "69c5321b413fcd7912e9719e",
+      "name": "Timber",
+      "slug": "timber",
+      "status": true,
+      "created_at": 1774531099557,
+      "updated_at": 1774531099557,
+      "__v": 0
+    }
+  ]
+}

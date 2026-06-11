@@ -1,0 +1,114 @@
+{
+  "getInTouch": [
+    {
+      "_id": "69a2ae634f927ed267acb30c",
+      "title": "Corporate Office",
+      "location": "Adventz Infinity@5, Office no - 802, Block - BN5, Sector V, Saltlake, Kolkata, West Bengal 700091",
+      "image_path": "/uploads/image_path-1780060310317-223441213.jpg",
+      "status": true,
+      "created_at": 1772269155467,
+      "updated_at": 1780060310327,
+      "__v": 0
+    },
+    {
+      "_id": "69a839c3004668e2b6439a59",
+      "title": "Registered Office & Factory",
+      "location": "179/D, N.T. Road, Dirghanga, Baidyabati, Hooghly- 712222, WB",
+      "image_path": "/uploads/image_path-1780060304678-307736627.png",
+      "status": true,
+      "created_at": 1772632515744,
+      "updated_at": 1780060304682,
+      "__v": 0
+    }
+  ],
+  "getInTouches": [
+    {
+      "_id": "69a2ae634f927ed267acb30c",
+      "title": "Corporate Office",
+      "location": "Adventz Infinity@5, Office no - 802, Block - BN5, Sector V, Saltlake, Kolkata, West Bengal 700091",
+      "image_path": "/uploads/image_path-1780060310317-223441213.jpg",
+      "status": true,
+      "created_at": 1772269155467,
+      "updated_at": 1780060310327,
+      "__v": 0
+    },
+    {
+      "_id": "69a839c3004668e2b6439a59",
+      "title": "Registered Office & Factory",
+      "location": "179/D, N.T. Road, Dirghanga, Baidyabati, Hooghly- 712222, WB",
+      "image_path": "/uploads/image_path-1780060304678-307736627.png",
+      "status": true,
+      "created_at": 1772632515744,
+      "updated_at": 1780060304682,
+      "__v": 0
+    }
+  ],
+  "get_in_touch": [
+    {
+      "_id": "69a2ae634f927ed267acb30c",
+      "title": "Corporate Office",
+      "location": "Adventz Infinity@5, Office no - 802, Block - BN5, Sector V, Saltlake, Kolkata, West Bengal 700091",
+      "image_path": "/uploads/image_path-1780060310317-223441213.jpg",
+      "status": true,
+      "created_at": 1772269155467,
+      "updated_at": 1780060310327,
+      "__v": 0
+    },
+    {
+      "_id": "69a839c3004668e2b6439a59",
+      "title": "Registered Office & Factory",
+      "location": "179/D, N.T. Road, Dirghanga, Baidyabati, Hooghly- 712222, WB",
+      "image_path": "/uploads/image_path-1780060304678-307736627.png",
+      "status": true,
+      "created_at": 1772632515744,
+      "updated_at": 1780060304682,
+      "__v": 0
+    }
+  ],
+  "entries": [
+    {
+      "_id": "69a2ae634f927ed267acb30c",
+      "title": "Corporate Office",
+      "location": "Adventz Infinity@5, Office no - 802, Block - BN5, Sector V, Saltlake, Kolkata, West Bengal 700091",
+      "image_path": "/uploads/image_path-1780060310317-223441213.jpg",
+      "status": true,
+      "created_at": 1772269155467,
+      "updated_at": 1780060310327,
+      "__v": 0
+    },
+    {
+      "_id": "69a839c3004668e2b6439a59",
+      "title": "Registered Office & Factory",
+      "location": "179/D, N.T. Road, Dirghanga, Baidyabati, Hooghly- 712222, WB",
+      "image_path": "/uploads/image_path-1780060304678-307736627.png",
+      "status": true,
+      "created_at": 1772632515744,
+      "updated_at": 1780060304682,
+      "__v": 0
+    }
+  ],
+  "data": {
+    "getInTouch": [
+      {
+        "_id": "69a2ae634f927ed267acb30c",
+        "title": "Corporate Office",
+        "location": "Adventz Infinity@5, Office no - 802, Block - BN5, Sector V, Saltlake, Kolkata, West Bengal 700091",
+        "image_path": "/uploads/image_path-1780060310317-223441213.jpg",
+        "status": true,
+        "created_at": 1772269155467,
+        "updated_at": 1780060310327,
+        "__v": 0
+      },
+      {
+        "_id": "69a839c3004668e2b6439a59",
+        "title": "Registered Office & Factory",
+        "location": "179/D, N.T. Road, Dirghanga, Baidyabati, Hooghly- 712222, WB",
+        "image_path": "/uploads/image_path-1780060304678-307736627.png",
+        "status": true,
+        "created_at": 1772632515744,
+        "updated_at": 1780060304682,
+        "__v": 0
+      }
+    ]
+  }
+}

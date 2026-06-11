@@ -1,0 +1,88 @@
+{
+  "leadership": [
+    {
+      "_id": "69b7e1c01d5b5523be1224f5",
+      "name": "Mrs. Aparna Sharma",
+      "role": "Independent Director",
+      "img": null,
+      "desc": "Mrs. Aparna Sharma is a qualified Company Secretary (ICSI) with a degree in Commerce (Honours), she brings specialized expertise in statutory oversight and risk management. She provides objective, independent judgment to the Board, strengthening the company’s governance framework and safeguarding the long-term interests of its stakeholders.",
+      "linkedin": "#",
+      "mail": "#",
+      "is_active": true,
+      "created_at": 1773658560393,
+      "updated_at": 1778077593267,
+      "__v": 0,
+      "order_number": 0
+    },
+    {
+      "_id": "69b7e1eb1d5b5523be1224fc",
+      "name": "Mr. Rathin Kumar Ray",
+      "role": "Independent Director",
+      "img": null,
+      "desc": "Mr. Rathin Kumar Ray brings a wealth of financial acumen and over 30 years of professional experience to the Board. A distinguished member of the Institute of Chartered Accountants of India (ICAI) since 1986, his expertise spans project finance, auditing, and corporate advisory",
+      "linkedin": "#",
+      "mail": "#",
+      "is_active": true,
+      "created_at": 1773658603205,
+      "updated_at": 1778076669257,
+      "__v": 0,
+      "order_number": 0
+    },
+    {
+      "_id": "69b7eab41d5b5523be12261d",
+      "name": "Mr. Gurucharan Acharya",
+      "role": "Executive Director",
+      "img": null,
+      "desc": "A veteran of the trade and a foundational pillar of Silvertoss, Mr. Gurucharan Acharya brings over 25 years of hands-on industry expertise to the Board. Having served as General Manager (Factory) prior to joining the leadership team, he possesses an intricate understanding of production planning and timber processing. In his current role, he oversees the manufacturing facility with a focus on rigorous quality control, while simultaneously managing key relationships within the trader and make-to-order segments",
+      "linkedin": "#",
+      "mail": "#",
+      "is_active": true,
+      "created_at": 1773660852699,
+      "updated_at": 1778076662044,
+      "__v": 0,
+      "order_number": 0
+    },
+    {
+      "_id": "69b7eade1d5b5523be12262b",
+      "name": "Mrs. Kalyani Singh",
+      "role": "Executive Director",
+      "img": null,
+      "desc": "With over two decades of experience in the timber sector, Mrs. Kalyani Singh is the operational\r\nbackbone of Silvertoss Industries. As Executive Director, she plays a pivotal role in driving\r\norganizational efficiency and stability.",
+      "linkedin": "#",
+      "mail": "#",
+      "is_active": true,
+      "created_at": 1773660894776,
+      "updated_at": 1778076657183,
+      "__v": 0,
+      "order_number": 0
+    },
+    {
+      "_id": "69b7eb0b1d5b5523be12262f",
+      "name": "Mr. Anand Kumar Singh",
+      "role": "Managing Director",
+      "img": null,
+      "desc": "At the helm of Silvertoss Industries, Mr. Anand Kumar Singh brings over 27 years of mastery in the timber industry. As Managing Director, he is the architect of the company’s strategic vision and global growth. His expertise spans the entire business value chain, from the global procurement of round logs to precision manufacturing and logistics. Mr. Singh spearheads the company’s bulk sourcing strategy and market-oriented production planning, ensuring that Silvertoss continues to set benchmarks in quality and operational excellence.",
+      "linkedin": "#",
+      "mail": "#",
+      "is_active": true,
+      "created_at": 1773660939593,
+      "updated_at": 1778076651428,
+      "__v": 0,
+      "order_number": 0
+    },
+    {
+      "_id": "69fb124b72796155a48d7a6d",
+      "name": "Mrs. Priyanka Tiwari",
+      "role": "Non Executive Director",
+      "img": null,
+      "desc": "Mrs. Priyanka Tiwari is a qualified Company Secretary (ICSI) with a degree in Commerce (Honours) and over nine years of experience in corporate and securities laws. Her expertise spans regulatory compliance, due diligence and insolvency matters. She brings valuable insight to the Board, helping to strengthen the company’s corporate governance, statutory compliance, and risk management frameworks.",
+      "linkedin": "#",
+      "mail": "#",
+      "is_active": true,
+      "created_at": 1778061899173,
+      "updated_at": 1778076553415,
+      "__v": 0,
+      "order_number": 1
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "banners": [
+    {
+      "_id": "69a29065d23a6c332a34dbc7",
+      "title": "A Legacy of Evolution and Engineering",
+      "description": "Reliable supply, quality-checked production, and plywood that performs trusted for modern furniture and interior applications.",
+      "image": "/assets/images/hero_bg.png",
+      "banner_url": "",
+      "isActive": true,
+      "createdAt": 1772261477421,
+      "updatedAt": 1773734984347,
+      "__v": 0
+    },
+    {
+      "_id": "69a2907dd23a6c332a34dbca",
+      "title": "A Legacy of Evolution and Engineering",
+      "description": "Reliable supply, quality-checked production, and plywood that performs trusted for modern furniture and interior applications.",
+      "image": "/assets/images/hero_bg.png",
+      "banner_url": "",
+      "isActive": true,
+      "createdAt": 1772261501318,
+      "updatedAt": 1773734943098,
+      "__v": 0
+    },
+    {
+      "_id": "69a2908fd23a6c332a34dbcd",
+      "title": "A Legacy of Evolution and Engineering",
+      "description": "Reliable supply, quality-checked production, and plywood that performs trusted for modern furniture and interior applications.",
+      "image": "/assets/images/hero_bg.png",
+      "banner_url": "",
+      "isActive": true,
+      "createdAt": 1772261519407,
+      "updatedAt": 1773734622115,
+      "__v": 0
+    },
+    {
+      "_id": "69a290a1d23a6c332a34dbd0",
+      "title": "A Legacy of Evolution and Engineering",
+      "description": "Reliable supply, quality-checked production, and plywood that performs trusted for modern furniture and interior applications.",
+      "image": "/assets/images/hero_bg.png",
+      "banner_url": "",
+      "isActive": true,
+      "createdAt": 1772261537293,
+      "updatedAt": 1773734504855,
+      "__v": 0
+    },
+    {
+      "_id": "69a290b0d23a6c332a34dbd3",
+      "title": "A Legacy of Evolution and Engineering",
+      "description": "Reliable supply, quality-checked production, and plywood that performs trusted for modern furniture and interior applications.",
+      "image": "/assets/images/hero_bg.png",
+      "banner_url": "",
+      "isActive": true,
+      "createdAt": 1772261552691,
+      "updatedAt": 1773734296939,
+      "__v": 0
+    },
+    {
+      "_id": "69c4f2d086e078c4fa5993c3",
+      "title": "A Legacy of Evolution and Engineering",
+      "description": "Established in 2002, Silvertoss Industries Limited has evolved from a global timber trading house into Eastern India’s leading integrated timber manufacturer. By combining international sourcing with advanced processing, we deliver high-quality, precision timber solutions for modern construction and interiors.\r\nAs we continue to grow, our commitment remains anchored in quality, innovation, and responsible practices, shaping solutions that meet the evolving demands of modern infrastructure and design.",
+      "image": "/assets/images/hero_bg.png",
+      "banner_url": "https://devanttest.in/new_silvertoss#products",
+      "isActive": true,
+      "createdAt": 1774514896062,
+      "updatedAt": 1774689381458,
+      "__v": 0
+    }
+  ]
+}
