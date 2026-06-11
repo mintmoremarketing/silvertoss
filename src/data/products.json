@@ -8,7 +8,7 @@
       "sku": "Wooden Window Frames",
       "short_description": "Built to endure. Processed in our advanced controlled seasoning chambers, these frames guarantee unparalleled structural stability, warp resistance, and a lifetime of service.",
       "description": "Built to endure. Processed in our advanced controlled seasoning chambers, these frames guarantee unparalleled structural stability, warp resistance, and a lifetime of service.",
-      "image": "public/uploads/image_path-1780060310317-223441213.jpg",
+      "image": "public/assets/images/products_1.png",
       "created_at": 1774684863089,
       "updated_at": 1780063769223,
       "__v": 0
@@ -21,7 +21,7 @@
       "sku": "Wooden Door Frames",
       "short_description": "The gateway to elegance. Precision-cut and meticulously seasoned, our door frames are tailor-made to seamlessly integrate into sophisticated architectural designs.",
       "description": "The gateway to elegance. Precision-cut and meticulously seasoned, our door frames are tailor-made to seamlessly integrate into sophisticated architectural designs.",
-      "image": "public/uploads/image-1780059726376-428455668.webp",
+      "image": "public/assets/images/products_2.png",
       "created_at": 1774684957969,
       "updated_at": 1780063711869,
       "__v": 0
@@ -34,7 +34,7 @@
       "sku": "Planks",
       "short_description": "Crafted for uncompromising strength. Our specialized planks deliver the exceptional durability and exacting accuracy required for the most demanding heavy-duty applications.",
       "description": "Crafted for uncompromising strength. Our specialized planks deliver the exceptional durability and exacting accuracy required for the most demanding heavy-duty applications.",
-      "image": "public/uploads/image-1780060277687-785862173.webp",
+      "image": "public/assets/images/products_3.png",
       "created_at": 1774685052779,
       "updated_at": 1780060159443,
       "__v": 0
@@ -47,7 +47,7 @@
       "sku": "Special Sized & Customised Timber",
       "short_description": "Woodworking without limits. We engineer non-standard dimensions and highly specific thicknesses to bring complex, project-specific architectural requirements to life.",
       "description": "Woodworking without limits. We engineer non-standard dimensions and highly specific thicknesses to bring complex, project-specific architectural requirements to life.",
-      "image": "public/uploads/image-1780060241841-88194937.webp",
+      "image": "public/assets/images/Round Timber Logs.png",
       "created_at": 1774685158775,
       "updated_at": 1780060121671,
       "__v": 0
@@ -60,7 +60,7 @@
       "sku": "Sawn Timber",
       "short_description": "\"\"",
       "description": "The ultimate foundation for your grandest visions. Expertly milled into standard and bespoke sizes, providing a robust base for structural, fabrication, and general construction applications.",
-      "image": "public/uploads/image-1780060204192-599716456.webp",
+      "image": "public/assets/images/products_5.png",
       "created_at": 1774685214929,
       "updated_at": 1780060097725,
       "__v": 0
